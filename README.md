@@ -1,4 +1,4 @@
-# Data Scientist 
+# CAD Desinger And CAM Programmer 
 ## Education 
 - BEng Hon. Mechanical Engineering, (_May 2021_) 
 - Extended Diploma General Engineering (_June 2018_) 
