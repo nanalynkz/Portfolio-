@@ -1,7 +1,7 @@
 # Data Scientist 
 ## Education 
-BEng Hon. Mechanical Engineering 
-Extended Diploma General Engineering
+BEng Hon. Mechanical Engineering, 
+Extended Diploma General Engineering, 
 Performing Engineering Operations 
 
 ## Work experience 
