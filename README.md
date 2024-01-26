@@ -1,6 +1,8 @@
 # Data Scientist 
 ## Education 
-Physics , PHD
+BEng Hon. Mechanical Engineering 
+Extended Diploma General Engineering
+Performing Engineering Operations 
 
 ## Work experience 
 CAD Designer & CAM Programmer @ Samuel Heath
