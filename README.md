@@ -1,6 +1,6 @@
 # CAD Desinger And CAM Programmer 
 ## Education 
-- BEng Hon. Mechanical Engineering (_May 2021_) 
+- BEng Hon. Mechanical Engineering (May 2021) 
 - Extended Diploma General Engineering (_June 2018_) 
 - Performing Engineering Operations (_June 2017_)
 
