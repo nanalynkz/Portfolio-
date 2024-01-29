@@ -14,4 +14,3 @@
 - Advanced Mill Turn
 - Advanced 3D Mill- HSR+HSM
 - iMachining 2D+3D
-  
