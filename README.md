@@ -1,4 +1,3 @@
-![](https://github.com/nanalynkz/Portfolio-/blob/main/Pics/Passport.jpg)
 # CAD Desinger And CAM Programmer 
 ## Education 
 - BEng Hon. Mechanical Engineering (_May 2021_) 
