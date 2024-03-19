@@ -8,8 +8,11 @@
 **CAD Designer & CAM Programmer @ Samuel Heath (_Feb 2023 - present_)**
 
 ## Projects 
-- Writing an automative BashScript (_To instail and upgrade sofware packages eg. Apache2._)
-- Setting up and Configuring Github to windows/ubuntu terminals. 
+# Writing an automative BashScript
+- To instail and upgrade sofware packages eg. Apache2._)
+- Setting up and Configuring Github to windows/ubuntu terminals.
+- SSH onto remote server & configurations.
+- Git & github. (Creating main & branch repo
 - G Coding & M Coding
 - C Coding in Robotics 
 - 5 axis Simulataneous Machining
