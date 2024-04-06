@@ -1,4 +1,13 @@
-# CAD Desinger And CAM Programmer 
+# Hello, I'm Emmanuel.
+<a href="https://linkedin.com/in/emmanuel-amoateng-669b96182/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps graduate with an extreme interest in technology and a keenness to solving complex problems.
+
+## Objective
+
+My expedition in computer science has led me to develop a passion for DevOps, and I am now keen to transition into this area, precisely aiming to join a profound company. 
+
 ## Education 
 - BEng Hon. Mechanical Engineering (_May 2021_) 
 - Extended Diploma General Engineering (_June 2018_) 
