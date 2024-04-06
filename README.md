@@ -8,9 +8,6 @@ I am a CAD Designer/ CAM Programmer at a professional level and a recent DevOps 
 
 My expedition in computer science has led me to develop a passion for DevOps, and I am now keen to transition into this area, precisely aiming to join a profound company. 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
@@ -27,7 +24,6 @@ My expedition in computer science has led me to develop a passion for DevOps, an
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://solidcam.com/imachining/imachining-overview"><img src="https://img.shields.io/badge/-SolidCAM-007ACC?&style=for-the-badge&logo=Solidworks&logoColor=white" /></a>   
 <img src="https://img.shields.io/badge/-SolidCAM-007ACC?&style=for-the-badge&logo=Solidworks&logoColor=white" />
